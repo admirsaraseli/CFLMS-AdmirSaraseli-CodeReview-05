@@ -1,0 +1,181 @@
+*
+	margin: 0
+	padding: 0
+
+body
+	background: linear-gradient(0deg, rgba(54,55,56,1) 0%, rgba(22,22,23,0.927608543417367) 100%)
+
+header
+	background: radial-gradient(circle, rgba(4,6,13,0.8575805322128851) 42%, rgba(2,4,5,1) 82%)
+	h1 
+		color: white
+		text-align: center
+		padding: 2%
+		font-size: 4vw
+	nav
+		background: radial-gradient(circle, rgba(112,112,115,0.8631827731092436) 10%, rgba(51,51,54,0.7567401960784313) 100%)
+		padding: 1% 0
+		a 
+			text-decoration: none
+			color: white
+			font-size: 2vw
+			margin-left: 2%	
+
+#sort_movie
+	display: flex
+	justify-content: flex-end
+	width: 90%
+	color: #a99292
+	margin: 1% auto 3% auto
+	select 
+		font-size: 1.7vw
+		background-color: #a07c17
+
+.top
+	text-align: center
+	color: #a99292
+
+#wrapper
+	display: flex
+	justify-content: space-between
+	flex-wrap: wrap
+	width: 90%
+	margin: 1% auto
+
+.movie_box
+	width: 48%
+	height: 30vw
+	display: flex
+	justify-content: space-around
+	background: linear-gradient(0deg, rgba(21,21,22,1) 0%, rgba(22,22,23,0.927608543417367) 100%)
+	margin-bottom: 2%
+	img
+		width: 40%
+		height: 95%
+		align-self: left
+		margin: 2% 0
+
+.movie_data
+	width: 48%
+	margin: 2% 0
+	color: #d06b61
+	h1
+		padding-bottom: 10%
+		font-size: 2.4vw
+	p 
+		font-size: 1.5vw
+		padding-bottom: 3%
+
+.description
+	margin-top: 5%
+
+.likes
+	display: flex
+	justify-content: flex-end
+	color: #a07c17
+	margin-top: 15%
+	align-items: center
+	p 
+		margin-left: 3%
+		padding: 3% 0
+		
+.fa
+	font-size: 1.7vw!important
+	cursor: pointer
+
+#counter
+	width: 20%
+	height: 4vw
+	border: 1px solid black
+	border-radius: 50%
+	background-color: #a07c17
+	color: white
+	margin-left: 3%
+	text-align: center
+	font-size: 3vw
+
+footer 
+	background: radial-gradient(circle, rgba(4,6,13,0.8575805322128851) 42%, rgba(2,4,5,1) 82%)
+	text-align: center
+	h1 
+		color: white
+		font-size: 4vw
+		padding: 2%
+	small
+		color: white
+
+
+@media screen and (max-width: 500px)
+	header
+		h1 
+			font-size: 6vw
+		nav a
+			font-size: 6vw
+
+	#sort_movie
+		select
+			font-size: 3.7vw
+
+	.movie_box
+		width: 100%
+		height: 55vw
+
+	.movie_data
+		h1
+			font-size: 5vw
+		p 
+			font-size: 3vw
+
+	.likes
+		margin-top: 5%
+
+	.fa
+		font-size: 3.7vw !important
+
+	#counter
+		width: 16%
+		height: 6vw
+		font-size: 5vw
+
+	footer 
+		h1 
+			font-size: 6vw
+
+@media screen and (min-width: 501px) and (max-width: 1023px)
+	header
+		h1 
+			font-size: 6vw
+		nav a
+			font-size: 6vw
+
+	#sort_movie
+		select
+			font-size: 3.7vw
+
+	.movie_box
+		width: 100%
+		height: 55vw
+
+	.movie_data
+		h1
+			font-size: 5vw
+		p 
+			font-size: 3vw
+
+	.likes
+		margin-top: 5%
+
+	.fa
+		font-size: 3.7vw !important
+
+	#counter
+		width: 16%
+		height: 6vw
+		font-size: 5vw
+
+	footer 
+		h1 
+			font-size: 6vw
+
+
+

@@ -1,0 +1,50 @@
+factory = `[
+    {
+        "title": "Title: Malcolm X", "actors": "Actors: Denzel Washington, Angela Bassett", 
+        "distributed": "Distributed by: Warner Bros.", "image": "img/Malcolm_X.jpg", 
+        "description": "Malcolm X, sometimes stylized as X, is a 1992 American biographical drama film about the African-American activist Malcolm X.",
+        "likes": "0"
+    },
+    {
+        "title": "Title: Fences", "actors": "Actors: Denzel Washington, Viola Davis",
+        "distributed": "Distributed by: Paramount Pic.", "image": "img/Fences.png",
+        "description": "The film is about an African-American man is trying to raise his family in the United States in the 1950s as he solves his problems.",
+        "likes": "0"
+    },
+    {
+        "title": "Title: Am. Gangster", "actors": "Actors: Denzel Washington, Russell Crowe",
+        "distributed": "Distributed by: Universal Pictures", "image": "img/Am_Gangster.jpg",
+        "description": "The film is about Frank Lucas, a gangster who smuggled heroin into the United States on American service planes returning from the Vietnam War.",
+        "likes": "0"
+    },
+    {
+        "title": "Title: Safe House", "actors": "Actors: Denzel Washington, Ryan Reynolds",
+        "distributed": "Distributed by: Universal Pictures", "image": "img/Safe_house.jpg",
+        "description": "The film is about a CIA agent who is in charge of a safe house where the CIA is interrogating a veteran operative who has allegedly betrayed the agency.",
+        "likes": "0"
+    },
+    {
+        "title": "Title: Inside Man", "actors": "Actors: Denzel Washington, Clive Owen",
+        "distributed": "Distributed by: Universal Pictures", "image": "img/Inside_Man.jpg",
+        "description": "The film is about a police officer, a bank robber and a powerful commissioner enter into negotiations where many risks are involved.",
+        "likes": "0"
+    },
+    {
+        "title": "Title: Training Day", "actors": "Actors: Denzel Washington, Ethan Hawke",
+        "distributed": "Distributed by: Warner Bros.", "image": "img/Training_day.jpg",
+        "description": "The film is about an anti-drug officer in Los Angeles, a young police officer must be trained on the ground with a detective who is not what he seems.",
+        "likes": "0"
+    },
+    {
+        "title": "Title: Man on Fire", "actors": "Actors: Denzel Washington, Dakota Fanning",
+        "distributed": "Distributed by: 20th Century Fox", "image": "img/Man_on_fire.jpg",
+        "description": "In Mexico, a former killer swears revenge on those who committed a very bad act against the family for which he was employed to protect him.",
+        "likes": "0"
+    },
+    {
+        "title": "Title: Re.the Titans", "actors": "Actors: Denzel Washington, Will Patton",
+        "distributed": "Distributed by: B.Vista Pictures", "image": "img/Rem_the_titans.jpg",
+        "description": "The film is about of a coach and his attempt to integrate the T. C. Williams High School football football team in Alexandria, Virginia, in 1971.",
+        "likes": "0"
+    }
+]`;
