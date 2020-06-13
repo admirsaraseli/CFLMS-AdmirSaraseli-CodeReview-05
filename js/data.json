@@ -13,19 +13,19 @@ factory = `[
     },
     {
         "title": "Title: Am. Gangster", "actors": "Actors: Denzel Washington, Russell Crowe",
-        "distributed": "Distributed by: Universal Pictures", "image": "img/Am_Gangster.jpg",
+        "distributed": "Distributed by: Universal Pic.", "image": "img/Am_Gangster.jpg",
         "description": "The film is about Frank Lucas, a gangster who smuggled heroin into the United States on American service planes returning from the Vietnam War.",
         "likes": "0"
     },
     {
         "title": "Title: Safe House", "actors": "Actors: Denzel Washington, Ryan Reynolds",
-        "distributed": "Distributed by: Universal Pictures", "image": "img/Safe_house.jpg",
+        "distributed": "Distributed by: Universal Pic.", "image": "img/Safe_house.jpg",
         "description": "The film is about a CIA agent who is in charge of a safe house where the CIA is interrogating a veteran operative who has allegedly betrayed the agency.",
         "likes": "0"
     },
     {
         "title": "Title: Inside Man", "actors": "Actors: Denzel Washington, Clive Owen",
-        "distributed": "Distributed by: Universal Pictures", "image": "img/Inside_Man.jpg",
+        "distributed": "Distributed by: Universal Pic.", "image": "img/Inside_Man.jpg",
         "description": "The film is about a police officer, a bank robber and a powerful commissioner enter into negotiations where many risks are involved.",
         "likes": "0"
     },
@@ -43,7 +43,7 @@ factory = `[
     },
     {
         "title": "Title: Re.the Titans", "actors": "Actors: Denzel Washington, Will Patton",
-        "distributed": "Distributed by: B.Vista Pictures", "image": "img/Rem_the_titans.jpg",
+        "distributed": "Distributed by: B.Vista Pic.", "image": "img/Rem_the_titans.jpg",
         "description": "The film is about of a coach and his attempt to integrate the T. C. Williams High School football football team in Alexandria, Virginia, in 1971.",
         "likes": "0"
     }

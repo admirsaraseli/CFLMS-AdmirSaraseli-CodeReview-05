@@ -149,7 +149,7 @@ footer {
     height: 55vw; }
 
   .movie_data h1 {
-    font-size: 5vw; }
+    font-size: 4vw; }
   .movie_data p {
     font-size: 3vw; }
 
@@ -166,5 +166,8 @@ footer {
 
   footer h1 {
     font-size: 6vw; } }
+@media screen and (min-width: 1023px) and (max-width: 1400px) {
+  .movie_data h1 {
+    font-size: 2.3vw; } }
 
 /*# sourceMappingURL=style.css.map */
